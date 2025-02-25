@@ -7,7 +7,7 @@ Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomenda
 - [Viaje a caracas](caracas.md): la mejor ciudad de venezuela
 - [Viaje a bucaramanga](burcaramanga.md): la ciudad bonita
 - [Viaje a bogota](bogota.md): ciudad gotica
-- [Viaje a medellin(medellin.md): buenas discotecas
+- [Viaje a medellin](medellin.md): buenas discotecas
 - [Viaje a Paramo](paramo.md): lo mejor de colombia
 - [Viaje a neiva](neiva.md): el mejor pueblito.
 - [Viaje a cucuta](cucuta.md): NO vayan.
